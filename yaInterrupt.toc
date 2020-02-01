@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 83000
 ## Author: Lofbergio - https://github.com/lofbergio
 ## Title: |cffFA2384ya|rInterrupt
 ## Notes: Announces interrupts in the chat
