@@ -1,0 +1,10 @@
+## Interface: 80000
+## Author: Lofbergio - https://github.com/lofbergio
+## Title: |cffFA2384ya|rInterrupt
+## Notes: Announces interrupts in the chat
+## X-Category: Misc
+## Version: 1.1
+## Dependencies: yaCore, yaMedia
+
+cfg.lua
+core.lua
